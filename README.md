@@ -35,7 +35,7 @@ Ajout de statistiques hebdomadaires
 
 Recherche d’aliments avec valeurs nutritionnelles
 
-🎯 Objectifs personnalisés selon le profil utilisateur
+Objectifs personnalisés selon le profil utilisateur
 
 
 📦 Installation
