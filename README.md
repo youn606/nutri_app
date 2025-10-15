@@ -1,16 +1,60 @@
-# nutri_app
+🍎 NutriTrack — Application de Nutrition
 
-A new Flutter project.
+Une application Flutter permettant de suivre son alimentation, ses apports caloriques et ses objectifs santé au quotidien.
 
-## Getting Started
+🚀 Fonctionnalités principales
 
-This project is a starting point for a Flutter application.
+🔍 Recherche d’aliments avec valeurs nutritionnelles
 
-A few resources to get you started if this is your first Flutter project:
+🍽️ Journal alimentaire (petit-déjeuner, déjeuner, dîner, collations)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📊 Suivi des calories et macronutriments (protéines, glucides, lipides)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎯 Objectifs personnalisés selon le profil utilisateur
+
+🌙 Mode sombre pour le confort visuel
+
+🛠️ Technologies utilisées
+
+Flutter
+ (SDK mobile multiplateforme)
+
+Dart
+
+Provider
+ pour la gestion d’état
+
+HTTP
+ pour les requêtes API
+
+Shared Preferences
+ pour le stockage local
+
+
+🧩 Améliorations futures
+
+Intégration d’une API d’aliments 
+
+Ajout de statistiques hebdomadaires
+
+📦 Installation
+
+Cloner le projet
+
+git clone https://github.com/votre-utilisateur/nutritrack.git
+cd nutritrack
+
+
+Installer les dépendances
+
+flutter pub get
+
+
+Lancer l’application
+
+flutter run
+
+👨‍💻 Auteur
+
+Développé par Fernandez Chavero Younes
+📧 Contact : fernandezyounesdev@gmail.com
