@@ -1,4 +1,4 @@
-🍎 NutriTrack — Application de Nutrition
+🍎 Nutrition Tracker — Application de Nutrition
 
 Une application Flutter permettant de suivre son alimentation, ses apports caloriques et ses objectifs santé au quotidien.
 
@@ -41,8 +41,8 @@ Ajout de statistiques hebdomadaires
 
 Cloner le projet
 
-git clone https://github.com/votre-utilisateur/nutritrack.git
-cd nutritrack
+git clone https://github.com/youn606/nutri_app.git
+cd nutri_app
 
 
 Installer les dépendances
@@ -57,4 +57,5 @@ flutter run
 👨‍💻 Auteur
 
 Développé par Fernandez Chavero Younes
+
 📧 Contact : fernandezyounesdev@gmail.com
