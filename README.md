@@ -4,13 +4,9 @@ Une application Flutter permettant de suivre son alimentation, ses apports calor
 
 🚀 Fonctionnalités principales
 
-🔍 Recherche d’aliments avec valeurs nutritionnelles
-
 🍽️ Journal alimentaire (petit-déjeuner, déjeuner, dîner, collations)
 
 📊 Suivi des calories et macronutriments (protéines, glucides, lipides)
-
-🎯 Objectifs personnalisés selon le profil utilisateur
 
 🌙 Mode sombre pour le confort visuel
 
@@ -36,6 +32,11 @@ Shared Preferences
 Intégration d’une API d’aliments 
 
 Ajout de statistiques hebdomadaires
+
+Recherche d’aliments avec valeurs nutritionnelles
+
+🎯 Objectifs personnalisés selon le profil utilisateur
+
 
 📦 Installation
 
